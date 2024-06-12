@@ -1,0 +1,41 @@
+
+.block3 {
+    height: 750px;
+    width: 100%;
+}
+
+.artists1 h1 {
+    color:red;
+    margin-right: 200px;
+    font-size: 40px;
+}
+
+.block3 .im {
+    margin-top: -600px;
+    margin-left: 200px;
+    list-style: none;
+}
+
+.block3 .myimg {
+    height: 600px;
+    width: 630px;
+    margin-right: 400px;
+}
+
+.block3 .myimg1 {
+    height: 250px;
+    width: 450px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 50px;
+
+
+}
+
+.block3 .myimg2 {
+    height: 250px;
+    width: 450px;
+    border-radius: 100px;
+    margin-top: 350px;
+    position: absolute;
+}

@@ -1,0 +1,46 @@
+.block2 {
+    /* background-color: rgb(203, 199, 199); */
+    display: flex;
+    height: 500px;
+    width: 100%;
+}
+
+.about1 h1 {
+    color: red;
+    width: 70%;
+    margin-top: 50px;
+    margin-left: 80px;
+    font-size: 40px;
+}
+
+.about1 p {
+    color: green;
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.about1 h2 {
+    color: rgb(55, 16, 229);
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 80px;
+    font-size: 22px;
+}
+
+.about1 h3 {
+    color: rgb(55, 16, 229);
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 80px;
+    font-size: 22px;
+}
+
+.block2 img {
+    height: 300px;
+    width: 40%;
+    margin-right: 80px;
+    margin-top: 100px;
+}

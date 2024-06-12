@@ -1,0 +1,11 @@
+.videos {
+    width: 100%;
+    position: relative;
+}
+
+.videos video {
+    height:650px;
+    width: 100%;
+    object-fit: cover;
+    box-sizing: border-box;
+}
